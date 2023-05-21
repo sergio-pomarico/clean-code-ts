@@ -1,7 +1,7 @@
 {
-  "name": "store-api",
+  "name": "clean-code-rest-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "api rest with basic clean code structure",
   "main": "index.js",
   "scripts": {
     "prepare": "husky install",
@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergio-pomarico/ts-node-projectp-setup.git"
+    "url": "git+https://github.com/sergio-pomarico/clean-code-ts.git"
   },
   "keywords": [],
   "author": "Sergio Pomárico <sergiodavid21@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sergio-pomarico/ts-node-projectp-setup/issues"
+    "url": "git+https://github.com/sergio-pomarico/clean-code-ts/issues"
   },
-  "homepage": "https://github.com/sergio-pomarico/ts-node-projectp-setup#readme",
+  "homepage": "git+https://github.com/sergio-pomarico/clean-code-ts.git#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.3.0",
     "@commitlint/config-conventional": "^17.3.0",

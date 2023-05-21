@@ -1,4 +1,4 @@
-# Setup for a NodeJS project with Typescript
+# Clean Code Structure for a NodeJS project with Typescript
 
 ## How to install
 
